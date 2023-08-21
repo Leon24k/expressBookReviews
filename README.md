@@ -1,7 +1,7 @@
 
 # expressBookReviews
 
-A brief description of what this project does and who it's for
+Developed using ExpressJs.
 
 
 ## Installation
